@@ -44,6 +44,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bisope03&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### New Badge earned:
+
+[![@bisope03's Holopin board](https://holopin.io/api/user/board?user=bisope03)](https://holopin.io/@bisope03)
+
 
 
 
