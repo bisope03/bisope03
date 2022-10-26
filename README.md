@@ -44,9 +44,6 @@
 
 ---
 
-### New Badge earned:
-
-[![@bisope03's Holopin board](https://holopin.io/api/user/board?user=bisope03)](https://holopin.io/@bisope03)
 
 
 
