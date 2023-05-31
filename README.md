@@ -19,7 +19,7 @@
 
 - :seedling: Exploring Backend web development.
 
-- :zap: In my free time, I solve problems on leetcode and binarySearch and also like to sketch.
+- :zap: In my free time, I solve problems on leetcode and also like to sketch.
 
 ---
 
